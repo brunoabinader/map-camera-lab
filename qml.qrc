@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapProperty.qml</file>
+        <file>Duration.qml</file>
+        <file>RealSpinBox.qml</file>
+    </qresource>
+</RCC>
